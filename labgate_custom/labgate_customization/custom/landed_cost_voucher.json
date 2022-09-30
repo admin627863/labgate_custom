@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Landed Cost Voucher",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2021-12-07 09:20:44.332414",
+   "default_value": null,
+   "doc_type": "Landed Cost Voucher",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "naming_series",
+   "idx": 0,
+   "modified": "2021-12-07 09:20:44.332414",
+   "modified_by": "Administrator",
+   "name": "Landed Cost Voucher-naming_series-options",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "options",
+   "property_type": "Text",
+   "row_name": null,
+   "value": "MAT-LCV-.YYYY.-"
+  }
+ ],
+ "sync_on_migrate": 1
+}

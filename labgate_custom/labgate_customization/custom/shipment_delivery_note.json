@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Shipment Delivery Note",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2021-12-16 11:01:01.068747",
+   "default_value": null,
+   "doc_type": "Shipment Delivery Note",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "grand_total",
+   "idx": 0,
+   "modified": "2021-12-16 11:01:01.068747",
+   "modified_by": "Administrator",
+   "name": "Shipment Delivery Note-grand_total-fetch_from",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "fetch_from",
+   "property_type": "Small Text",
+   "row_name": null,
+   "value": "delivery_note.total"
+  }
+ ],
+ "sync_on_migrate": 1
+}
